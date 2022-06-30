@@ -1,0 +1,21 @@
+## Steps to install package ##
+1. open terminal
+2. navigate to the folder using ---> cd folder_name 
+3. npm i package_name
+
+## local dependencies ##
+1. local to the folder
+2. used in the same folder
+3. do not need admin access to work/install
+
+## global dependencies ##
+1. installed in your system
+2. used for any application
+3. only those package that helps to start, build, test applications.
+4. need admin access to work/install
+
+5. command used for---> npm i -g package_name
+
+
+## nodemon ##
+npm i -g nodemon
