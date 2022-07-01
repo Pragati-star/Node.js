@@ -4,8 +4,7 @@
     "description": "Project,template",
     "main": "job template,nodejs,packages",
     "scripts": {
-      "start": "node App.js",
-      "dev": "node App.js"
+      "start": "node http.js"
     },
     "keywords": [
       "job",
